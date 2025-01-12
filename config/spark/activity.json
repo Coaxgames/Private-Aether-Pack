@@ -5,6 +5,19 @@
       "name": "xX_BACONPALE2_Xx",
       "uniqueId": "0adae12d-bbe2-4afb-b969-af9daf22a5f2"
     },
+    "time": 1736668840929,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/6NIRVzllQh"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "xX_BACONPALE2_Xx",
+      "uniqueId": "0adae12d-bbe2-4afb-b969-af9daf22a5f2"
+    },
     "time": 1736582470362,
     "type": "Profiler",
     "data": {
