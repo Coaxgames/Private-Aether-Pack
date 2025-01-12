@@ -1,0 +1,28 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "xX_BACONPALE2_Xx",
+      "uniqueId": "0adae12d-bbe2-4afb-b969-af9daf22a5f2"
+    },
+    "time": 1736582470362,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/N3oR0Pd43k"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "xX_BACONPALE2_Xx",
+      "uniqueId": "0adae12d-bbe2-4afb-b969-af9daf22a5f2"
+    },
+    "time": 1736581724108,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/PNXxcvpShz"
+    }
+  }
+]
