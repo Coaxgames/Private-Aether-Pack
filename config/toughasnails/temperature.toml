@@ -54,9 +54,6 @@
 	#Amount to change the temperature by when snowing.
 	#Range: -4 ~ 4
 	snow_temperature_change = -1
-	#Number of ticks a player stays wet for after touching water, rain or snow.
-	#Range: > 0
-	wet_ticks = 40
 
 [time]
 	#Amount to change the temperature at night when the original temperature is not hot.

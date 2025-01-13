@@ -1,0 +1,597 @@
+{
+  "message": "Only change index and hidden - Can be used as list for custom keys",
+  "pages": [
+    {
+      "name": "key.categories.gameplay",
+      "index": 0,
+      "hidden": false,
+      "keys": [
+        "key.attack",
+        "key.use",
+        "key.pickItem",
+        "key.dragon_fireAttack",
+        "key.dragon_strike",
+        "key.dragon_down"
+      ]
+    },
+    {
+      "name": "key.categories.movement",
+      "index": 1,
+      "hidden": false,
+      "keys": [
+        "key.forward",
+        "key.left",
+        "key.back",
+        "key.right",
+        "key.jump",
+        "key.sneak",
+        "key.sprint"
+      ]
+    },
+    {
+      "name": "key.categories.inventory",
+      "index": 2,
+      "hidden": false,
+      "keys": [
+        "key.drop",
+        "key.inventory",
+        "key.swapOffhand",
+        "key.hotbar.1",
+        "key.hotbar.2",
+        "key.hotbar.3",
+        "key.hotbar.4",
+        "key.hotbar.5",
+        "key.hotbar.6",
+        "key.hotbar.7"
+      ]
+    },
+    {
+      "name": "key.categories.inventory",
+      "index": 3,
+      "hidden": false,
+      "keys": [
+        "key.hotbar.8",
+        "key.hotbar.9",
+        "equipmentcompare.key.showTooltips"
+      ]
+    },
+    {
+      "name": "key.categories.multiplayer",
+      "index": 4,
+      "hidden": false,
+      "keys": [
+        "key.chat",
+        "key.playerlist",
+        "key.command",
+        "key.socialInteractions"
+      ]
+    },
+    {
+      "name": "key.categories.misc",
+      "index": 5,
+      "hidden": false,
+      "keys": [
+        "key.screenshot",
+        "key.togglePerspective",
+        "key.smoothCamera",
+        "key.fullscreen",
+        "key.spectatorOutlines",
+        "key.advancements",
+        "key.dragon_change_view",
+        "key.corpse.death_history",
+        "fullbrightnesstoggle.key.togglebrightness",
+        "key.inventorypets.petnaming"
+      ]
+    },
+    {
+      "name": "key.categories.misc",
+      "index": 6,
+      "hidden": false,
+      "keys": [
+        "key.special_ability"
+      ]
+    },
+    {
+      "name": "key.categories.creative",
+      "index": 6,
+      "hidden": false,
+      "keys": [
+        "key.saveToolbarActivator",
+        "key.loadToolbarActivator"
+      ]
+    },
+    {
+      "name": "key.modernfix",
+      "index": 7,
+      "hidden": false,
+      "keys": [
+        "key.modernfix.config"
+      ]
+    },
+    {
+      "name": "key.categories.project_odyssey",
+      "index": 8,
+      "hidden": false,
+      "keys": [
+        "key.cadmus.open_claim_map",
+        "key.argonauts.open_party_chat",
+        "key.argonauts.open_guild_chat"
+      ]
+    },
+    {
+      "name": "item.structure_gel.building_tool",
+      "index": 9,
+      "hidden": false,
+      "keys": [
+        "info.structure_gel.building_tool.undo",
+        "info.structure_gel.building_tool.redo",
+        "key.structure_gel.open_building_tool_gui"
+      ]
+    },
+    {
+      "name": "key.curios.category",
+      "index": 10,
+      "hidden": false,
+      "keys": [
+        "key.curios.open.desc"
+      ]
+    },
+    {
+      "name": "iris.keybinds",
+      "index": 11,
+      "hidden": false,
+      "keys": [
+        "iris.keybind.reload",
+        "iris.keybind.toggleShaders",
+        "iris.keybind.shaderPackSelection"
+      ]
+    },
+    {
+      "name": "jei.key.category.hover.config.button",
+      "index": 12,
+      "hidden": false,
+      "keys": [
+        "key.jei.toggleCheatModeConfigButton"
+      ]
+    },
+    {
+      "name": "jei.key.category.overlays",
+      "index": 13,
+      "hidden": false,
+      "keys": [
+        "key.jei.nextPage",
+        "key.jei.focusSearch",
+        "key.jei.previousPage",
+        "key.jei.toggleOverlay",
+        "key.jei.toggleBookmarkOverlay"
+      ]
+    },
+    {
+      "name": "jei.key.category.cheat.mode",
+      "index": 14,
+      "hidden": false,
+      "keys": [
+        "key.jei.cheatItemStack2",
+        "key.jei.cheatOneItem",
+        "key.jei.cheatOneItem2",
+        "key.jei.cheatItemStack",
+        "key.jei.toggleCheatMode"
+      ]
+    },
+    {
+      "name": "jei.key.category.mouse.hover",
+      "index": 15,
+      "hidden": false,
+      "keys": [
+        "key.jei.showUses2",
+        "key.jei.transferRecipeBookmark",
+        "key.jei.showRecipe",
+        "key.jei.showRecipe2",
+        "key.jei.showUses",
+        "key.jei.bookmark",
+        "key.jei.maxTransferRecipeBookmark"
+      ]
+    },
+    {
+      "name": "jei.key.category.search",
+      "index": 16,
+      "hidden": false,
+      "keys": [
+        "key.jei.nextSearch",
+        "key.jei.clearSearchBar",
+        "key.jei.previousSearch"
+      ]
+    },
+    {
+      "name": "jei.key.category.recipe.gui",
+      "index": 17,
+      "hidden": false,
+      "keys": [
+        "key.jei.previousRecipePage",
+        "key.jei.previousCategory",
+        "key.jei.closeRecipeGui",
+        "key.jei.recipeBack",
+        "key.jei.nextRecipePage",
+        "key.jei.nextCategory"
+      ]
+    },
+    {
+      "name": "jei.key.category.dev.tools",
+      "index": 19,
+      "hidden": false,
+      "keys": [
+        "key.jei.copy.recipe.id"
+      ]
+    },
+    {
+      "name": "jei.key.category.edit.mode",
+      "index": 19,
+      "hidden": false,
+      "keys": [
+        "key.jei.toggleHideIngredient",
+        "key.jei.toggleWildcardHideIngredient",
+        "key.jei.toggleEditMode"
+      ]
+    },
+    {
+      "name": "constants.mekanism.mod_name",
+      "index": 20,
+      "hidden": false,
+      "keys": [
+        "key.mekanism.mode",
+        "key.mekanism.head_mode",
+        "key.mekanism.chest_mode",
+        "key.mekanism.legs_mode",
+        "key.mekanism.feet_mode",
+        "key.mekanism.details",
+        "key.mekanism.description",
+        "key.mekanism.module_tweaker",
+        "key.mekanism.key_boost",
+        "key.mekanism.key_hud"
+      ]
+    },
+    {
+      "name": "key.categories.ael.viner",
+      "index": 21,
+      "hidden": false,
+      "keys": [
+        "key.vine",
+        "key.vine.config"
+      ]
+    },
+    {
+      "name": "key.categories.voicechat",
+      "index": 22,
+      "hidden": false,
+      "keys": [
+        "key.push_to_talk",
+        "key.whisper",
+        "key.mute_microphone",
+        "key.disable_voice_chat",
+        "key.hide_icons",
+        "key.voice_chat",
+        "key.voice_chat_settings",
+        "key.voice_chat_group",
+        "key.voice_chat_toggle_recording",
+        "key.voice_chat_adjust_volumes"
+      ]
+    },
+    {
+      "name": "Xaero\u0027s Minimap",
+      "index": 23,
+      "hidden": false,
+      "keys": [
+        "gui.xaero_switch_waypoint_set",
+        "gui.xaero_instant_waypoint",
+        "gui.xaero_toggle_slime",
+        "gui.xaero_toggle_grid",
+        "gui.xaero_toggle_waypoints",
+        "gui.xaero_toggle_map_waypoints",
+        "gui.xaero_toggle_map",
+        "gui.xaero_enlarge_map",
+        "gui.xaero_waypoints_key",
+        "gui.xaero_zoom_in"
+      ]
+    },
+    {
+      "name": "Xaero\u0027s Minimap",
+      "index": 24,
+      "hidden": false,
+      "keys": [
+        "gui.xaero_zoom_out",
+        "gui.xaero_new_waypoint",
+        "gui.xaero_display_all_sets",
+        "gui.xaero_toggle_light_overlay",
+        "gui.xaero_toggle_entity_radar",
+        "gui.xaero_reverse_entity_radar",
+        "gui.xaero_toggle_manual_cave_mode",
+        "gui.xaero_alternative_list_players",
+        "gui.xaero_toggle_tracked_players_on_map",
+        "gui.xaero_toggle_tracked_players_in_world"
+      ]
+    },
+    {
+      "name": "Xaero\u0027s Minimap",
+      "index": 25,
+      "hidden": false,
+      "keys": [
+        "gui.xaero_toggle_pac_chunk_claims",
+        "gui.xaero_minimap_settings"
+      ]
+    },
+    {
+      "name": "key.categories.odyssey",
+      "index": 26,
+      "hidden": false,
+      "keys": [
+        "key.prometheus.open_homes"
+      ]
+    },
+    {
+      "name": "key.railcraft.category",
+      "index": 27,
+      "hidden": false,
+      "keys": [
+        "key.railcraft.change_aura"
+      ]
+    },
+    {
+      "name": "key.structurize.categories.general",
+      "index": 28,
+      "hidden": false,
+      "keys": [
+        "key.structurize.teleport",
+        "key.structurize.move_forward",
+        "key.structurize.move_back",
+        "key.structurize.move_left",
+        "key.structurize.move_right",
+        "key.structurize.move_up",
+        "key.structurize.move_down",
+        "key.structurize.rotate_cw",
+        "key.structurize.rotate_ccw",
+        "key.structurize.mirror"
+      ]
+    },
+    {
+      "name": "key.structurize.categories.general",
+      "index": 29,
+      "hidden": false,
+      "keys": [
+        "key.structurize.place"
+      ]
+    },
+    {
+      "name": "key.categories.snekcraft",
+      "index": 30,
+      "hidden": false,
+      "keys": [
+        "key.snekcraft.drop_shoulder"
+      ]
+    },
+    {
+      "name": "key.aether.category",
+      "index": 31,
+      "hidden": false,
+      "keys": [
+        "key.aether.open_accessories.desc",
+        "key.aether.gravitite_jump_ability.desc",
+        "key.aether.invisibility_toggle.desc",
+        "key.deep_aether.stratus_dash_ability.desc",
+        "key.deep_aether.slider_eye_ability"
+      ]
+    },
+    {
+      "name": "key.categories.toomanykeybinds",
+      "index": 32,
+      "hidden": false,
+      "keys": [
+        "key.toomanykeybinds.open_tmk"
+      ]
+    },
+    {
+      "name": "key.categories.electrosimplicity",
+      "index": 33,
+      "hidden": false,
+      "keys": [
+        "key.mekkon.artillery_fire",
+        "key.mekkon.machine_left",
+        "key.mekkon.machine_right",
+        "key.mekkon.machine_pitch_reset"
+      ]
+    },
+    {
+      "name": "Xaero\u0027s World Map",
+      "index": 34,
+      "hidden": false,
+      "keys": [
+        "gui.xaero_open_map",
+        "gui.xaero_open_settings",
+        "gui.xaero_map_zoom_in",
+        "gui.xaero_map_zoom_out",
+        "gui.xaero_quick_confirm",
+        "gui.xaero_toggle_dimension"
+      ]
+    },
+    {
+      "name": "keybind.sophisticatedbackpacks.category",
+      "index": 36,
+      "hidden": false,
+      "keys": [
+        "keybind.sophisticatedbackpacks.open_backpack",
+        "keybind.sophisticatedbackpacks.inventory_interaction",
+        "keybind.sophisticatedbackpacks.tool_swap",
+        "keybind.sophisticatedbackpacks.sort",
+        "keybind.sophisticatedbackpacks.toggle_upgrade_1",
+        "keybind.sophisticatedbackpacks.toggle_upgrade_2",
+        "keybind.sophisticatedbackpacks.toggle_upgrade_3",
+        "keybind.sophisticatedbackpacks.toggle_upgrade_4",
+        "keybind.sophisticatedbackpacks.toggle_upgrade_5"
+      ]
+    },
+    {
+      "name": "key.carry.category",
+      "index": 36,
+      "hidden": false,
+      "keys": [
+        "key.carry.desc"
+      ]
+    },
+    {
+      "name": "ping-wheel.name",
+      "index": 37,
+      "hidden": false,
+      "keys": [
+        "ping-wheel.key.ping-location",
+        "ping-wheel.key.open-settings",
+        "ping-wheel.key.name-labels"
+      ]
+    },
+    {
+      "name": "key.categories.configured",
+      "index": 38,
+      "hidden": false,
+      "keys": [
+        "key.configured.open_mod_list"
+      ]
+    },
+    {
+      "name": "key.categories.mcjtylib",
+      "index": 39,
+      "hidden": false,
+      "keys": [
+        "key.openManual"
+      ]
+    },
+    {
+      "name": "key.categories.rftools",
+      "index": 40,
+      "hidden": false,
+      "keys": [
+        "key.nextDestination",
+        "key.prevDestination"
+      ]
+    },
+    {
+      "name": "category.azurelib.binds",
+      "index": 41,
+      "hidden": false,
+      "keys": [
+        "key.azurelib.reload",
+        "key.azurelib.scope",
+        "key.azurelib.fire"
+      ]
+    },
+    {
+      "name": "key.toolbelt.category",
+      "index": 42,
+      "hidden": false,
+      "keys": [
+        "key.toolbelt.open",
+        "key.toolbelt.cycle.left",
+        "key.toolbelt.cycle.right",
+        "key.toolbelt.slot"
+      ]
+    },
+    {
+      "name": "modmenu.nameTranslation.jade",
+      "index": 43,
+      "hidden": false,
+      "keys": [
+        "key.jade.config",
+        "key.jade.show_overlay",
+        "key.jade.toggle_liquid",
+        "key.jade.show_recipes",
+        "key.jade.show_uses",
+        "key.jade.narrate",
+        "key.jade.show_details"
+      ]
+    },
+    {
+      "name": "quark.gui.keygroup.misc",
+      "index": 44,
+      "hidden": false,
+      "keys": [
+        "quark.keybind.autorun",
+        "quark.keybind.back",
+        "quark.keybind.camera_mode",
+        "quark.keybind.change_hotbar",
+        "quark.keybind.lock_rotation",
+        "quark.keybind.narrator_readout",
+        "quark.keybind.narrator_full_readout",
+        "quark.keybind.variant_selector"
+      ]
+    },
+    {
+      "name": "quark.gui.keygroup.inv",
+      "index": 45,
+      "hidden": false,
+      "keys": [
+        "quark.keybind.transfer_insert",
+        "quark.keybind.transfer_extract",
+        "quark.keybind.shift_lock",
+        "quark.keybind.sort_player",
+        "quark.keybind.sort_container"
+      ]
+    },
+    {
+      "name": "quark.gui.keygroup.emote",
+      "index": 46,
+      "hidden": false,
+      "keys": [
+        "quark.emote.no",
+        "quark.emote.yes",
+        "quark.emote.wave",
+        "quark.emote.salute",
+        "quark.emote.cheer",
+        "quark.emote.clap",
+        "quark.emote.think",
+        "quark.emote.point",
+        "quark.emote.shrug",
+        "quark.emote.headbang"
+      ]
+    },
+    {
+      "name": "quark.gui.keygroup.emote",
+      "index": 47,
+      "hidden": false,
+      "keys": [
+        "quark.emote.weep",
+        "quark.emote.facepalm",
+        "quark.keybind.patreon_emote.dance",
+        "quark.keybind.patreon_emote.tpose",
+        "quark.keybind.patreon_emote.dab",
+        "quark.keybind.patreon_emote.jet",
+        "quark.keybind.patreon_emote.exorcist",
+        "quark.keybind.patreon_emote.zombie"
+      ]
+    },
+    {
+      "name": "key.inventoryhud.category",
+      "index": 48,
+      "hidden": false,
+      "keys": [
+        "key.inventoryhud.toggle",
+        "key.inventoryhud.openconfig",
+        "key.inventoryhud.togglepot",
+        "key.inventoryhud.togglearm",
+        "key.inventoryhud.toggleall"
+      ]
+    },
+    {
+      "name": "justzoom.keybinds.category",
+      "index": 49,
+      "hidden": false,
+      "keys": [
+        "justzoom.keybinds.keybind.zoom"
+      ]
+    },
+    {
+      "name": "key.craftpresence.category",
+      "index": 50,
+      "hidden": false,
+      "keys": [
+        "key.craftpresence.config_keycode.name"
+      ]
+    }
+  ]
+}

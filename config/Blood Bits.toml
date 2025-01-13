@@ -1,0 +1,11 @@
+
+[particles]
+	#Particle amount, gets multiplied by the damage dealtt.
+	"Particles Amount" = 5.0
+	"Particles On/Off" = true
+	#Hard set limit for blood particles (Not reccomended to go above 400)
+	"Particle Threshold" = 200.0
+
+[sound_effects]
+	"Sound effects On/Off" = true
+

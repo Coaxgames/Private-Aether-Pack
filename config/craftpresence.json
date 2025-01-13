@@ -215,7 +215,8 @@
       "Server - The Nether": "https://raw.githubusercontent.com/The-Aether-Team/.github/main/discord/the_nether.png",
       "Server - The End": "https://raw.githubusercontent.com/The-Aether-Team/.github/main/discord/the_end.png",
       "xX_BACONPALE2_Xx": "https://mc-heads.net/avatar/0adae12dbbe24afbb969af9daf22a5f2",
-      "mc1544235.fmcs.cloud": "https://api.mcsrvstat.us/icon/mc1544235.fmcs.cloud"
+      "mc1544235.fmcs.cloud": "https://api.mcsrvstat.us/icon/mc1544235.fmcs.cloud",
+      "51.81.242.78": "https://api.mcsrvstat.us/icon/51.81.242.78"
     },
     "dynamicVariables": {
       "default": "Example Text",
