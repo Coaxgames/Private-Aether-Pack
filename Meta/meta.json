@@ -5,6 +5,11 @@
     {
         "id": "3.2.3",
         "releasedAt": 209384093820
+    },
+    {
+        "id": "3.2.4",
+        "releasedAt": 209384093820,
+        "updateType": "incompatible"
     }
  
   ]
