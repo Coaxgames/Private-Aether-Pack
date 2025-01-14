@@ -4,12 +4,12 @@
   "versions": [
     {
       "id": "3.2.2",
-      "releasedAt": 0,
+      "releasedAt": 1,
       "updateType": "incompatible"
     },
     {
       "id": "3.2.3",
-      "releasedAt": 0,
+      "releasedAt": 2,
       "updateType": "minor"
     }
   ]
