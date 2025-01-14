@@ -2,6 +2,15 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
-    "3.2.1"
+    {
+        "id": "3.2.2",
+        "releasedAt": 1736822069,
+        "promotions": {
+            "downloads": {
+                "ModPack": "https://curseforge.com/",
+                "Discord": "https://example.com/"
+            }
+        }
+    }
   ]
 }
