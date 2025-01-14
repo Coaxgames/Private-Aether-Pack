@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 9,
+  "schemaVersion": 7,
   "hotfixesFormat": null,
   "versions": [
     {
@@ -8,9 +8,14 @@
       "updateType": "incompatible"
     },
     {
-      "id": "3.2.3",
+      "id": "3.2.3X",
       "releasedAt": 2,
       "updateType": "minor"
+    },
+    {
+      "id": "3.2.4X",
+      "releasedAt": 3,
+      "updateType": "major"
     }
   ]
 }
