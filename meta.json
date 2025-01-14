@@ -1,16 +1,7 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 7,
   "hotfixesFormat": null,
   "versions": [
-    {
-        "id": "3.2.2",
-        "releasedAt": 1736822069,
-        "promotions": {
-            "downloads": {
-                "ModPack": "https://curseforge.com/",
-                "Discord": "https://example.com/"
-            }
-        }
-    }
+    
   ]
 }
