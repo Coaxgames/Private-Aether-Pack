@@ -8,23 +8,15 @@
       "releasedAt": 1696299585000
     },
     {
-      "id": "3.2.3X",
-      "releasedAt": 1696299585000
-    },
-    {
-      "id": "2.3.4X",
-      "releasedAt": 1696299585000
-    },
-    {
       "id": "3.2.5",
       "releasedAt": 1697299585001,
+      "updateType": "minor_breaking",
       "promotions": {
-            "downloads": {
-                "modrinth": "https://modrinth.com/",
-                "curseforge": "https://curseforge.com/",
-                "generic": "https://example.com/"
-            }
+        "downloads": {
+          "Download": "https://github.com/Coaxgames/Private-Aether-Pack/tree/CurseForge/ReleaseVersions/versions/3.2.5",
+          "Discord": "https://discord.gg/daNygnBH3t"
         }
+      }
     }
   ]
 }
