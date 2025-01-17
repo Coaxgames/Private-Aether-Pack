@@ -1,1 +1,12 @@
-Test 2 for now
+Removed a few mod causing tps Spikes (not noticable on server but the client is running rough)
+~Patched in some java runtime args, though Make sure you apply the Args
+  Subnote: this is located in curseforge MC settings near the bottom, just paste it in.
+  Args: "https://github.com/Coaxgames/Private-Aether-Pack/edit/CurseForge/ReleaseVersions/versions/3.2.5/changelog.txt"
+
+
+Args:
+-XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:+DisableExplicitGC -XX:G1NewSizePercent=30 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1ReservePercent=25 -XX:MaxGCPauseMillis=40 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:G1MixedGCCountTarget=4 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1HeapRegionSize=16M -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -XX:G1MaxNewSizePercent=40
+
+
+
+Discord: "https://discord.gg/daNygnBH3t"
