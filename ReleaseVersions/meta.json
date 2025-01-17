@@ -4,24 +4,8 @@
   "hotfixesFormat": null,
   "versions": [
     {
-      "id": "3.2.2",
-      "releasedAt": 1,
-      "updateType": "incompatible"
-    },
-    {
-      "id": "3.2.3X",
-      "releasedAt": 2,
-      "updateType": "incompatible"
-    },
-    {
-      "id": "3.2.4X",
-      "releasedAt": 3,
-      "updateType": "incompatible"
-    },
-    {
-      "id": "3.41X",
-      "releasedAt": 4,
-      "updateType": "major"
+      "id": "1.0.0",
+      "releasedAt": 1696299585000
     }
   ]
 }
