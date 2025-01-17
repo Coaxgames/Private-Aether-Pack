@@ -12,26 +12,6 @@
       "id": "3.2.3X",
       "releasedAt": 1735190201111,
       "updateType": "incompatible"
-    },
-    {
-      "id": "3.2.4X",
-      "releasedAt": 1736390201111,
-      "updateType": "incompatible",
-      "promotions": {
-            "downloads": {
-                "generic": "https://github.com/Coaxgames/Private-Aether-Pack/edit/CurseForge"
-            }
-        }
-    },
-    {
-      "id": "3.2.5X",
-      "releasedAt": 1737090201111,
-      "updateType": "major",
-      "promotions": {
-            "downloads": {
-                "generic": "https://github.com/Coaxgames/Private-Aether-Pack/edit/CurseForge"
-            }
-        }
-    },
+    }
   ]
 }
