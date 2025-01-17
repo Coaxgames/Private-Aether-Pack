@@ -4,7 +4,7 @@ Removed a few mod causing tps Spikes (not noticable on server but the client is 
   Args: "https://github.com/Coaxgames/Private-Aether-Pack/edit/CurseForge/ReleaseVersions/versions/3.2.5/changelog.txt"
 
 
-Args:
+Args(dont include before the ':' ):
 -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:+DisableExplicitGC -XX:G1NewSizePercent=30 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1ReservePercent=25 -XX:MaxGCPauseMillis=40 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:G1MixedGCCountTarget=4 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1HeapRegionSize=16M -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -XX:G1MaxNewSizePercent=40
 
 
