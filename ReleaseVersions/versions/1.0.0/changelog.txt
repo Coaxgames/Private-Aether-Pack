@@ -1,1 +1,2 @@
-test
+Finally working, Smth to do with Carrige return functions.
+3.2.5 Is the newest stable version, if your on 1.0.0 then u need to install manually
