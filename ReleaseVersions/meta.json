@@ -19,8 +19,7 @@
       "updateType": "minor_breaking",
       "promotions": {
         "downloads": {
-          "Download": "https://github.com/Coaxgames/Private-Aether-Pack/tree/CurseForge/ReleaseVersions/versions",
-          "Discord": "https://discord.gg/daNygnBH3t"
+          "generic": "https://github.com/Coaxgames/Private-Aether-Pack/tree/CurseForge/ReleaseVersions/versions"
         }
       }
     }
