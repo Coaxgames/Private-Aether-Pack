@@ -5,13 +5,11 @@
   "versions": [
     {
       "id": "1.0.0",
-      "releasedAt": 1696299585000,
-      "updateType": "incompatible"
+      "releasedAt": 1696299585000
     },
     {
       "id": "3.2.3",
-      "releasedAt": 1735190201111,
-      "updateType": "incompatible"
+      "releasedAt": 1735190201111
     }
   ]
 }
