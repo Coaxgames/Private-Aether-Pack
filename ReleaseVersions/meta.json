@@ -5,7 +5,13 @@
   "versions": [
     {
       "id": "1.0.0",
-      "releasedAt": 1696299585000
+      "releasedAt": 1696299585000,
+      "promotions": {
+        "downloads": {
+          "Download": "https://github.com/Coaxgames/Private-Aether-Pack/tree/CurseForge/ReleaseVersions/versions/3.2.5",
+          "Discord": "https://discord.gg/daNygnBH3t"
+        }
+      }
     },
     {
       "id": "3.2.5",
@@ -13,7 +19,7 @@
       "updateType": "minor_breaking",
       "promotions": {
         "downloads": {
-          "Download": "https://github.com/Coaxgames/Private-Aether-Pack/tree/CurseForge/ReleaseVersions/versions/3.2.5",
+          "Download": "https://github.com/Coaxgames/Private-Aether-Pack/tree/CurseForge/ReleaseVersions/versions",
           "Discord": "https://discord.gg/daNygnBH3t"
         }
       }
