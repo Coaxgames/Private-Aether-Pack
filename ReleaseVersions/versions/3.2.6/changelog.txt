@@ -1,0 +1,13 @@
+~Added a few mods:
+	~More Chest Variants 1.5.0
+		-->Quad 1.1.1
+	~Moved ALL mods (exept client mods) to the server and ReleaseBuild(NotMadeYet!)
+	~Java Runtime Arguments are REQUIRED when running shaders (exept Optifine) for system under the specs Following:
+		CPU: i7-9700 (overclocking can fix this issue too, not recommended though)
+		GPU: GTX 1070 TI
+		RAM: 8GB MIN/16GB MAX
+		RAM SPEED: 2166/2666 Minimal! 3200+ Preferred
+
+	~Removed A few mods, More importantly DarkmodeEverywhere was causing Access ram usage? may be related to Oculus.
+	~Added Automodpack for the server, BUT ModPackChecker will remain for the singleplayer users
+	~Working on a custom credits page mod for modpacks that require upload permission, Licenced with open-source (Jar files are not source!)

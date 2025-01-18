@@ -8,10 +8,46 @@
   ~Client: A DIRECT Upload of the latest modpack verison, Comes with preset options, Configs, ect. Need no setup other than joining the server to update every so often (No server files yet!)
   
 
+# ----New Install Guide's---- #
+Barebones/Client install:
+~Download 3.2.6 ClientOnly!
+~Import to CurseForge (or whatever)
+~Open folder for new and Old version
+~Move anything you need over (options and Optionsof, any Xearos folder, Mod data, Saves and configs, ect)
+~Run Game and connect to the built-in server (You wont connect, but it will install all de mods)
+~Restart after download finished and play!
+
+Update/SinglePlayer approach:
+~Download the 3.2.6 FullBuild
+~Import to CurseForge (or whatever)
+~Open folder for new and Old version
+~Move anything you need over (options and Optionsof, any Xearos folder, Mod data, Saves and configs, ect)
+~Run game and play!
+
+Download and play approach (Not ready Yet!):
+~Download the 3.2.6 ReleaseBuild from -InsertmodpackHTMLhere-
+~Thats it, once loaded you can enabled updates from the launcher you use. No moving file required!
+
+
 # FOR SINGLE PLAYER OR LOWER END SYSTEMS README!! #
-i Updated the GC (Memory Cleaner) to run quicker with a lower pause time (@40), seems to never crawl up too high now. this may be different for some, im running 14gb. this pack is using at MOST 70$ of that, though the GC is set to reserve 30/40% memory of total MC allocated memory, this results in the gc running more frequent, but i have limited its max tick time to 40ms roughly, this should mean the client can never crash with enough memory given to MC (Though DO NOT apply more than 70% of your MAX ram to MC and never apply less than 4~6gb, this can cause runaway style lockups, or MC crashing due to some mod, when its infact ram)
+Please use these JVM arguments, This will help prevent Embed & Oculus from using too much memory
+Under testing these are the minimal to prevent crashing:
+-XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:+DisableExplicitGC -XX:G1NewSizePercent=30 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1ReservePercent=25 -XX:MaxGCPauseMillis=40 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:G1MixedGCCountTarget=4 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1HeapRegionSize=16M -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -XX:G1MaxNewSizePercent=40
 
-for context im running a i7-9700 with a 1070ti, 28gb of ram running @ 2666mhz. i have only allowed 14gb out of the 28gb bc MC will try to take too much and run down memory speeds. so keeping the memory lower is better in this situation.
 
-GC Runtime arg link:
-https://github.com/Coaxgames/Private-Aether-Pack/blob/CurseForge/ReleaseVersions/versions/3.2.5/changelog.txt
+
+# ----Discord Server---- # (Get the MC role and open a ticket for help!):
+https://discord.gg/aYFXyABmmT
+
+
+
+
+
+
+
+
+Todo for Modpack managment:
+~Get the modpack JAR file, upload to Curse or modrinth, but make sure to swap all jar files and verify there not local files!
+If there local mods, the Curse/Modrinth will deny the upload, Ofc this can happen normally but still needs to be checked
+
+~When making an update, also make the next version and hook the html for it, this way its always on the newest version link OR set the HTML link to always go to the homepage, this will ensure no confusion over correction
