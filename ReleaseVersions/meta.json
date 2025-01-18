@@ -31,16 +31,6 @@
           "generic": "https://github.com/Coaxgames/Private-Aether-Pack/tree/CurseForge/ReleaseVersions/versions/3.2.6"
         }
       }
-    },
-    {
-      "id": "3.2.6RB",
-      "releasedAt": 1737207029195,
-      "updateType": "major",
-      "promotions": {
-        "downloads": {
-          "generic": "https://github.com/Coaxgames/Private-Aether-Pack/tree/CurseForge/ReleaseVersions/versions/3.2.6RB"
-        }
-      }
     }
   ]
 }
