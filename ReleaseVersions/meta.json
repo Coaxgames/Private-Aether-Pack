@@ -8,7 +8,7 @@
       "releasedAt": 1696299585000,
       "promotions": {
         "downloads": {
-          "generic": "https://github.com/Coaxgames/Private-Aether-Pack/tree/CurseForge/ReleaseVersions/versions/3.2.7"
+          "generic": "https://github.com/Coaxgames/Private-Aether-Pack/tree/CurseForge/ReleaseVersions/versions/3.3.1"
         }
       }
     },
@@ -18,7 +18,7 @@
       "updateType": "minor_breaking",
       "promotions": {
         "downloads": {
-          "generic": "https://github.com/Coaxgames/Private-Aether-Pack/tree/CurseForge/ReleaseVersions/versions/3.2.7"
+          "generic": "https://github.com/Coaxgames/Private-Aether-Pack/tree/CurseForge/ReleaseVersions/versions/3.3.1"
         }
       }
     },
@@ -28,7 +28,7 @@
       "updateType": "major",
       "promotions": {
         "downloads": {
-          "generic": "https://github.com/Coaxgames/Private-Aether-Pack/tree/CurseForge/ReleaseVersions/versions/3.2.7"
+          "generic": "https://github.com/Coaxgames/Private-Aether-Pack/tree/CurseForge/ReleaseVersions/versions/3.3.1"
         }
       }
     },
@@ -38,7 +38,17 @@
       "updateType": "major",
       "promotions": {
         "downloads": {
-          "generic": "https://github.com/Coaxgames/Private-Aether-Pack/tree/CurseForge/ReleaseVersions/versions/3.2.7"
+          "generic": "https://github.com/Coaxgames/Private-Aether-Pack/tree/CurseForge/ReleaseVersions/versions/3.3.1"
+        }
+      }
+    },
+    {
+      "id": "3.3.1",
+      "releasedAt": 1738585605087,
+      "updateType": "minor_breaking",
+      "promotions": {
+        "downloads": {
+          "generic": "https://github.com/Coaxgames/Private-Aether-Pack/tree/CurseForge/ReleaseVersions/versions/3.3.1"
         }
       }
     }
