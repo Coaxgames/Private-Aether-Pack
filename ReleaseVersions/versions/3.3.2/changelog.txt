@@ -1,0 +1,8 @@
+added a few mods, Next update will be the move over to curseforge FULLY, this way the repo can be retired for the dedicated server storage we will have
+~Next update will also include LootConfigs again, i think the mods was missing some addons needed to function quicker. so LootConfig will be added back
+in v3.3.3
+
+Also worked on minimal specs for the modpack, this will be listed on the CF Description
+
+~This will be the "Medium" aka the Exploration & Adventure Pack, though the bigger pack will include guns (with real-like blockages and durability)
+and much more terrain mods along with some custom EMC mappings and other QOL touch-ups that are needed
