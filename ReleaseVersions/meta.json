@@ -51,6 +51,16 @@
           "generic": "https://github.com/Coaxgames/Private-Aether-Pack/tree/CurseForge/ReleaseVersions/versions/3.3.1"
         }
       }
+    },
+    {
+      "id": "3.3.2",
+      "releasedAt": 1738713938184,
+      "updateType": "minor_breaking",
+      "promotions": {
+        "downloads": {
+          "generic": "https://github.com/Coaxgames/Private-Aether-Pack/tree/CurseForge/ReleaseVersions/versions/3.3.1"
+        }
+      }
     }
   ]
 }
