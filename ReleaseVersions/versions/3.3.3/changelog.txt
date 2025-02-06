@@ -1,0 +1,2 @@
+~Next update will also include LootConfigs again, i think the mods was missing some addons needed to function quicker. so LootConfig will be added back
+in v3.3.4
