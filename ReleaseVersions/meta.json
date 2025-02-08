@@ -25,7 +25,7 @@
     {
       "id": "3.2.6",
       "releasedAt": 1737207029194,
-      "updateType": "major",
+      "updateType": "minor_breaking",
       "promotions": {
         "downloads": {
           "generic": "https://github.com/Coaxgames/Xaons-Exploration-n-Adventure-Pack/blob/CurseForge/ReleaseVersions/3.3.2"
@@ -35,7 +35,7 @@
     {
       "id": "3.2.7",
       "releasedAt": 1737221066226,
-      "updateType": "major",
+      "updateType": "minor_breaking",
       "promotions": {
         "downloads": {
           "generic": "https://github.com/Coaxgames/Xaons-Exploration-n-Adventure-Pack/blob/CurseForge/ReleaseVersions/3.3.2"
